@@ -1,0 +1,270 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	296
+#@/user_id	57f66d0b-5542-4c76-bff3-5964d43b0cf8
+a 	啊	c=3 d=2.74595 t=263
+an 	安	c=1 d=1 t=38
+ba 	吧	c=1 d=1 t=137
+bang 	幫	c=1 d=1 t=50
+bao xiao 	報銷	c=1 d=1 t=147
+ben di 	本地	c=1 d=0.97531 t=296
+bi jiao 	比較	c=2 d=1.99501 t=82
+biao xiao 	表銷	c=1 d=1 t=146
+bie ren 	別人	c=1 d=1 t=64
+bu bian 	不變	c=1 d=1 t=296
+bu duo 	不多	c=0 d=0.1 t=178
+bu hao 	不好	c=1 d=1 t=177
+bu jin qu 	不進去	c=1 d=1 t=45
+bu shi 	不是	c=2 d=1.42419 t=148
+bu shi qu gao 	不是去搞	c=1 d=1 t=149
+bu xiang 	不想	c=0 d=0.1 t=54
+bu xing 	不行	c=0 d=0.1 t=267
+bu zhi dao 	不知道	c=1 d=1 t=113
+ce shi 	測試	c=3 d=2.24139 t=274
+ce shi shu ru fa 	測試輸入法	c=1 d=1 t=275
+cha 	差	c=0 d=0.1 t=73
+cha yi xia 	差一下	c=1 d=1 t=74
+chang 	廠	c=1 d=1 t=159
+cheng du 	程度	c=1 d=1 t=107
+chong qi 	重啓	c=1 d=1 t=14
+chu qu wan 	出去玩	c=0 d=0.1 t=294
+da 	大	c=2 d=1.6157 t=155
+da ban tian 	大半天	c=1 d=1 t=216
+dai ma 	代碼	c=1 d=1 t=191
+dao yan 	導演	c=1 d=1 t=148
+de 	的	c=8 d=4.43225 t=292
+dei 	得	c=1 d=1 t=217
+deng lu 	登錄	c=1 d=1.08869 t=67
+di zhi 	地址	c=1 d=0.985112 t=296
+dian 	點	c=1 d=1 t=229
+dian nao 	電腦	c=1 d=1 t=120
+dong xi 	東西	c=1 d=1 t=215
+dou 	都	c=0 d=0.1 t=43
+dou deng lu 	都登錄	c=1 d=1 t=44
+dou ke yi 	都可以	c=1 d=1 t=66
+dou neng 	都能	c=0 d=0.1 t=159
+dou neng qu 	都能去	c=1 d=1 t=160
+duan 	斷	c=1 d=1 t=106
+dui de 	對的	c=1 d=1 t=243
+duo lv 	多慮	c=1 d=1 t=162
+en 	恩	c=3 d=2.0563 t=290
+fa 	發	c=1 d=1 t=201
+fa piao 	發票	c=1 d=1 t=144
+fen zhong 	分鐘	c=1 d=1 t=192
+fu fei 	付費	c=1 d=1 t=254
+fu li 	福利	c=1 d=1.09048 t=197
+fu li hao 	福利好	c=1 d=1 t=178
+fu wu 	服務	c=2 d=1.97045 t=140
+fu wu qi 	服務器	c=3 d=2.51224 t=221
+fu ze 	負責	c=0 d=0.1 t=47
+fu ze de 	負責的	c=1 d=1 t=48
+gan gen 	敢跟	c=1 d=1 t=59
+gan jue 	感覺	c=2 d=1.60653 t=256
+gang 	剛	c=0 d=0.1 t=122
+gang gao hao 	剛搞好	c=1 d=1 t=123
+gao 	搞	c=0 d=0.1 t=148
+gao 	高	c=1 d=1.0956 t=204
+gao hao 	搞好	c=0 d=0.160957 t=122
+gao hao le 	搞好了	c=1 d=1 t=24
+ge 	個	c=1 d=0.657566 t=248
+geng xin 	更新	c=0 d=0.1 t=186
+gong ji jin 	公積金	c=1 d=1 t=202
+gong zi 	工資	c=1 d=1 t=195
+google 	Google	c=1 d=1.1 t=293
+gu ge 	谷歌	c=1 d=1 t=272
+guan fang 	官方	c=1 d=1 t=76
+guo nei 	國內	c=1 d=1 t=157
+guo qi 	國企	c=1 d=1 t=176
+hai ting 	還挺	c=0 d=0.1 t=290
+hai ting hao yong 	還挺好用	c=1 d=1 t=291
+hao 	好	c=1 d=1.08958 t=199
+hao jiu 	好久	c=2 d=1.99501 t=219
+hao shuang 	好爽	c=1 d=1 t=296
+hao xiang 	好像	c=1 d=1 t=260
+hao yong 	好用	c=0 d=0.1 t=290
+hao zhe 	好着	c=1 d=1 t=185
+hen 	很	c=1 d=1 t=33
+hen bu cuo 	很不錯	c=2 d=1.99501 t=26
+hen qiang 	很強	c=0 d=0.199501 t=53
+hen qiang shi 	很強勢	c=1 d=1 t=54
+hen qiang shi 	很強是	c=1 d=1 t=53
+huan jing 	環境	c=1 d=1.03642 t=241
+hui 	會	c=1 d=1 t=104
+hui fu 	恢復	c=1 d=1 t=141
+hun he 	混合	c=1 d=1 t=288
+ji qian kuai 	幾千塊	c=2 d=1.99005 t=236
+ji shu 	技術	c=0 d=0.1 t=151
+jian duan 	尖端	c=0 d=0.1 t=151
+jian duan ji shu 	尖端技術	c=1 d=1 t=152
+jiao shou 	教授	c=1 d=1.05684 t=172
+jiao shou zhe me 	教授這麼	c=1 d=1 t=60
+jie 	傑	c=1 d=1 t=36
+jie xi 	解析	c=0 d=0.1 t=128
+jie xi xia 	解析下	c=1 d=1 t=129
+jin cheng 	進程	c=1 d=1 t=92
+jing guan 	經管	c=1 d=1 t=65
+jiu 	久	c=2 d=1.81078 t=168
+jiu 	就	c=1 d=1 t=169
+jiu bu 	就不	c=0 d=0.1 t=195
+jiu bu gao 	就不高	c=1 d=1 t=196
+jiu ke yi 	久可以	c=1 d=1 t=167
+jiu pao 	就跑	c=0 d=0.1 t=132
+jiu pao le ge 	就跑了個	c=1 d=1 t=133
+jiu yong 	就用	c=0 d=0.1 t=10
+jiu zai zhe li 	就在這裏	c=1 d=1 t=261
+kan yi xia 	看一下	c=1 d=1 t=51
+kan you 	堪憂	c=1 d=1 t=223
+kao bei 	拷貝	c=2 d=1.97531 t=214
+ke shi 	可是	c=1 d=1 t=253
+ke yi 	可以	c=4 d=2.94725 t=170
+kuai lai 	快來	c=1 d=1 t=173
+la ji 	垃圾	c=1 d=1 t=111
+lai 	來	c=1 d=1 t=128
+lao 	老	c=1 d=1 t=211
+le 	了	c=8 d=4.61915 t=266
+liu mang 	流氓	c=1 d=1 t=255
+lu chuan 	擼串	c=1 d=1 t=175
+ma fan 	麻煩	c=1 d=1 t=49
+man 	慢	c=2 d=1.90484 t=232
+mao 	毛	c=1 d=1 t=286
+mao si 	貌似	c=1 d=1 t=29
+me 	麼	c=2 d=1.63445 t=154
+mei 	妹	c=0 d=0.1 t=263
+mei 	沒	c=1 d=1 t=142
+mi 	迷	c=1 d=1 t=246
+mi ma 	密碼	c=1 d=0.995012 t=296
+mi shu 	祕書	c=0 d=0.1 t=164
+ming ling 	命令	c=2 d=1.99501 t=239
+na bian 	那邊	c=1 d=1 t=227
+na ge 	哪個	c=1 d=1 t=158
+na jiu 	那就	c=1 d=1 t=68
+na li 	哪裏	c=1 d=1 t=285
+na me 	那麼	c=1 d=1 t=99
+ne 	呢	c=1 d=1 t=186
+nei cun 	內存	c=1 d=1.00032 t=243
+neng 	能	c=0 d=0.1 t=294
+neng bu neng 	能不能	c=1 d=1 t=225
+neng chu qu wan 	能出去玩	c=1 d=1 t=295
+ni 	你	c=0 d=0.135169 t=263
+ni bu xiang 	你不想	c=1 d=1 t=55
+ni de 	你的	c=1 d=1 t=278
+ni gang 	你剛	c=1 d=1 t=189
+nong 	弄	c=2 d=1.62189 t=184
+o o 	哦哦	c=1 d=1 t=75
+pao le 	跑了	c=0 d=0.1 t=248
+pao le ge 	跑了個	c=1 d=1 t=249
+pian yi 	便宜	c=0 d=0.1 t=266
+qi 	起	c=1 d=1 t=86
+qi dong 	啓動	c=1 d=1 t=88
+qi le 	起了	c=1 d=1 t=139
+qian 	前	c=1 d=1 t=193
+qian 	錢	c=0 d=0.1 t=178
+qian bu duo 	錢不多	c=1 d=1 t=179
+qie huan 	切換	c=1 d=1 t=78
+qing jiao 	請教	c=0 d=0.1 t=93
+qing jiao yi xia 	請教一下	c=1 d=1 t=94
+qu 	去	c=0 d=0.28149 t=173
+qu ban 	去辦	c=1 d=1 t=166
+qu dong 	驅動	c=1 d=1 t=121
+qun 	羣	c=2 d=1.36604 t=257
+rang 	讓	c=1 d=1.07334 t=226
+rang mi shu 	讓祕書	c=1 d=1 t=165
+ren jia 	人家	c=2 d=1.99501 t=252
+ren zheng 	認證	c=1 d=1.08607 t=71
+ri le gou le 	日了狗了	c=1 d=1 t=265
+sha 	殺	c=1 d=1 t=91
+sha dou 	啥都	c=1 d=1 t=200
+shan 	刪	c=1 d=1 t=95
+shen me 	什麼	c=2 d=1.43387 t=281
+shi 	勢	c=1 d=1.07261 t=117
+shi 	是	c=3 d=2.34954 t=220
+shi bie 	識別	c=1 d=1 t=151
+shi hou 	時候	c=1 d=1 t=80
+shi sha 	是啥	c=1 d=1 t=132
+shi zhe ge 	是這個	c=1 d=1 t=135
+shu ju ku 	數據庫	c=1 d=1 t=136
+shu le 	輸了	c=1 d=1 t=235
+shu liang 	數量	c=1 d=1 t=233
+shu ru 	輸入	c=5 d=2.88239 t=296
+shu ru fa 	輸入法	c=7 d=4.17304 t=282
+shu xu guan 	鼠鬚管	c=2 d=1.27527 t=279
+shuang 	爽	c=0 d=0.1 t=267
+shuang de bu xing 	爽的不行	c=1 d=1 t=268
+shuang pin 	雙拼	c=2 d=1.93707 t=283
+shui 	誰	c=1 d=1 t=47
+shuo guo 	說過	c=1 d=1 t=262
+shuo hua 	說話	c=1 d=1 t=61
+sun zong 	孫總	c=1 d=1 t=161
+ta men 	他們	c=1 d=1 t=43
+tai 	太	c=0 d=0.1 t=266
+tai pian yi le 	太便宜了	c=1 d=1 t=267
+te bie 	特別	c=1 d=1 t=231
+ti jiao 	提交	c=0 d=0.1 t=189
+ti jiao de 	提交的	c=1 d=1 t=190
+tiao da 	調大	c=1 d=1 t=228
+tong xue 	同學	c=1 d=1 t=180
+tong yi 	統一	c=1 d=1.0865 t=70
+tong yi ren zheng 	統一認證	c=1 d=1 t=42
+tuo 	脫	c=1 d=1 t=284
+wen jian 	文件	c=2 d=1.56836 t=210
+wen ti 	問題	c=1 d=1 t=122
+wo 	我	c=5 d=3.16761 t=186
+wo geng xin 	我更新	c=1 d=1 t=187
+wo hai mei 	我還沒	c=1 d=1 t=90
+wo jiu 	我就	c=1 d=1 t=248
+wo jiu yong 	我就用	c=1 d=1 t=11
+wo qu 	我去	c=1 d=1.09851 t=266
+wo qu ni mei 	我去你妹	c=1 d=1 t=264
+wo yi wei 	我以爲	c=1 d=1 t=116
+wo zai 	我再	c=1 d=1 t=124
+wo zhe jiu 	我這就	c=0 d=0.1 t=293
+wo zhe jiu google 	我這就Google	c=1 d=1 t=294
+wu qi 	武器	c=0 d=0.1 t=181
+wu qi yan fa 	武器研發	c=1 d=1 t=182
+xia 	下	c=1 d=0.671209 t=128
+xian zai 	現在	c=3 d=2.26372 t=230
+xiao 	銷	c=1 d=1 t=39
+xiao he 	小鶴	c=1 d=1 t=269
+xie 	寫	c=1 d=1 t=143
+xuan 	旋	c=1 d=1 t=37
+yan fa 	研發	c=0 d=0.1 t=181
+ye jiu 	也就	c=1 d=1 t=57
+yi duan shi jian 	一段時間	c=1 d=1 t=103
+yi wei 	以爲	c=0 d=0.1 t=115
+yi xia 	一下	c=1 d=1.16151 t=126
+ying pan 	硬盤	c=1 d=1 t=115
+ying yong 	應用	c=1 d=1 t=250
+yong 	用	c=2 d=0.681857 t=296
+yong bu guan 	用不慣	c=1 d=1 t=84
+yong de 	用的	c=1 d=1 t=280
+yong shen me 	用什麼	c=1 d=1 t=22
+yong zhe ge 	用這個	c=1 d=0.980199 t=296
+you qian 	有錢	c=0 d=0.1 t=236
+you shi hou 	有時候	c=1 d=1 t=77
+yu shu 	榆樹	c=3 d=1.87088 t=277
+yu yan 	語言	c=1 d=1 t=150
+zai 	在	c=3 d=2.24379 t=181
+zan men 	咱們	c=1 d=1.08479 t=206
+zan men qu 	咱們去	c=1 d=1 t=174
+zei 	賊	c=2 d=1.97531 t=203
+zen me 	怎麼	c=2 d=1.81873 t=138
+zen me yang 	怎麼樣	c=2 d=1.29671 t=271
+zhan yong 	佔用	c=0 d=0.1 t=243
+zhang hao 	帳號	c=1 d=0.99005 t=296
+zhe 	這	c=0 d=0.1 t=243
+zhe e 	這額	c=1 d=1 t=109
+zhe ge 	這個	c=4 d=1.88203 t=296
+zhe me 	這麼	c=0 d=0.1 t=59
+zhe nei cun zhan yong 	這內存佔用	c=1 d=1 t=244
+zhe zhong shi qing 	這種事情	c=1 d=1 t=164
+zhen 	真	c=1 d=1.0956 t=245
+zhen you qian 	真有錢	c=1 d=1 t=237
+zheng 	整	c=1 d=1 t=125
+zheng shi 	正式	c=0 d=0.1 t=39
+zheng shi huan jing 	正式環境	c=1 d=1 t=40
+zheng zai 	正在	c=1 d=1 t=183
+zhong wen 	中文	c=1 d=0.970446 t=296
+zhong ying 	中英	c=1 d=1 t=287
+zi dong 	自動	c=1 d=1 t=105

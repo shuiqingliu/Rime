@@ -1,0 +1,8 @@
+cd software/upload_war/ && rm ctg-bss-web.war.bak && mv ctg-bss-web.war ctg-bss-web.war.bak && sftp super@10.34.1.207
+
+
+
+
+
+E56574767c#38dE5a1Ce6@9012c449ef
+get /home/super/upload_war/ctg-bss-web.war .
