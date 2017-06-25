@@ -1,3 +1,5 @@
-2017/06/23-09:58:06.723567 7fffb27a73c0 Recovering log #73
-2017/06/23-09:58:06.724171 7fffb27a73c0 Delete type=0 #73
-2017/06/23-09:58:06.724223 7fffb27a73c0 Delete type=3 #71
+2017/06/25-13:51:00.003756 7fffbdebe3c0 Recovering log #89
+2017/06/25-13:51:00.004143 7fffbdebe3c0 Level-0 table #91: started
+2017/06/25-13:51:00.004185 7fffbdebe3c0 Level-0 table #91: 0 bytes OK
+2017/06/25-13:51:00.005202 7fffbdebe3c0 Delete type=0 #89
+2017/06/25-13:51:00.005292 7fffbdebe3c0 Delete type=3 #87
